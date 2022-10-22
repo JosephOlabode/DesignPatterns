@@ -6,23 +6,23 @@ namespace FactoryPattern
     {
         static void Main(string[] args)
         {
-            Shape rectangle = ShapeFactory.getShape("rectangle");
+            IShape rectangle = ShapeFactory.getShape("rectangle");
             rectangle.draw();
 
-            Shape triangle = ShapeFactory.getShape("triangle");
+            IShape triangle = ShapeFactory.getShape("triangle");
             triangle.draw();
 
-            Shape circle = ShapeFactory.getShape("circle");
+            IShape circle = ShapeFactory.getShape("circle");
             circle.draw();
         }
     }
 
-    interface Shape
+    interface IShape
     {
         void draw();
     }
 
-    class Rectangle : Shape
+    class Rectangle : IShape
     {
         public void draw()
         {
@@ -30,7 +30,7 @@ namespace FactoryPattern
         }
     }
 
-    class Triangle : Shape
+    class Triangle : IShape
     {
         public void draw()
         {
@@ -38,7 +38,7 @@ namespace FactoryPattern
         }
     }
 
-    class Circle : Shape
+    class Circle : IShape
     {
         public void draw()
         {
@@ -48,7 +48,7 @@ namespace FactoryPattern
 
     class ShapeFactory
     {
-        public static Shape getShape(string type)
+        public static IShape getShape(string type)
         {
             if (type.ToLower() == "rectangle")
                 return new Rectangle();
