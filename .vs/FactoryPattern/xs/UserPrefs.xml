@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{1568EA8D-2CA3-4D86-A777-1E928328DCCF}|Default">
+  <MonoDevelop.Ide.ItemProperties.FactoryPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AbstracFactoryPattern FirstBuild="True" />
+</Properties>
