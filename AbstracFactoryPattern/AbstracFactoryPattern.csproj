@@ -5,4 +5,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="ShapeFiles\" />
+    <None Remove="ShapeColorFactoryFiles\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ShapeFiles\" />
+    <Folder Include="ShapeColorFactoryFiles\" />
+  </ItemGroup>
 </Project>

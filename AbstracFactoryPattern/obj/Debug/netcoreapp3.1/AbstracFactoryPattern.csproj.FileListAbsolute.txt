@@ -1,0 +1,14 @@
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/bin/Debug/netcoreapp3.1/AbstracFactoryPattern
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/bin/Debug/netcoreapp3.1/AbstracFactoryPattern.deps.json
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/bin/Debug/netcoreapp3.1/AbstracFactoryPattern.runtimeconfig.json
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/bin/Debug/netcoreapp3.1/AbstracFactoryPattern.runtimeconfig.dev.json
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/bin/Debug/netcoreapp3.1/AbstracFactoryPattern.dll
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/bin/Debug/netcoreapp3.1/AbstracFactoryPattern.pdb
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/obj/Debug/netcoreapp3.1/AbstracFactoryPattern.csproj.AssemblyReference.cache
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/obj/Debug/netcoreapp3.1/AbstracFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/obj/Debug/netcoreapp3.1/AbstracFactoryPattern.AssemblyInfoInputs.cache
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/obj/Debug/netcoreapp3.1/AbstracFactoryPattern.AssemblyInfo.cs
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/obj/Debug/netcoreapp3.1/AbstracFactoryPattern.csproj.CoreCompileInputs.cache
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/obj/Debug/netcoreapp3.1/AbstracFactoryPattern.dll
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/obj/Debug/netcoreapp3.1/AbstracFactoryPattern.pdb
+/Users/softwareengineer/Projects/DesignPatterns/AbstracFactoryPattern/obj/Debug/netcoreapp3.1/AbstracFactoryPattern.genruntimeconfig.cache
