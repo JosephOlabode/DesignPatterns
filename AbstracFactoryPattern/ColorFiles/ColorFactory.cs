@@ -3,7 +3,7 @@ namespace AbstracFactoryPattern.ColorFiles
 {
     class ColorFactory
     {
-        public Color getColor(string type)
+        public IColor getColor(string type)
         {
             if (type.ToLower() == "red")
                 return new Red();

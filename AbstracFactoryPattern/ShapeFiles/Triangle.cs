@@ -1,7 +1,7 @@
 ﻿using System;
 namespace AbstracFactoryPattern.ShapeFiles
 {
-    class Triangle : Shape
+    class Triangle : IShape
     {
         public void draw()
         {

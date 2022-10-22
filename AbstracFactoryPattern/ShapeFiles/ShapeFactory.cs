@@ -3,7 +3,7 @@ namespace AbstracFactoryPattern.ShapeFiles
 {
     class ShapeFactory
     {
-        public Shape getShape(string type)
+        public IShape getShape(string type)
         {
             if (type.ToLower() == "rectangle")
                 return new Rectangle();

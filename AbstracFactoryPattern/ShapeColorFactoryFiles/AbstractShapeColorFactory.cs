@@ -4,7 +4,7 @@ using AbstracFactoryPattern.ShapeFiles;
 
 namespace AbstracFactoryPattern.ShapeColorFactoryFiles
 {
-    interface AbstractShapeAndColorFactory
+    interface IAbstractShapeAndColorFactory
     {
         public ShapeFactory getShapeFactory();
         public ColorFactory getColorFactory();

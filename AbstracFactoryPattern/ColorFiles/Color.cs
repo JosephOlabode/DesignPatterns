@@ -1,7 +1,7 @@
 ﻿using System;
 namespace AbstracFactoryPattern.ColorFiles
 {
-    interface Color
+    interface IColor
     {
         void paint();
     }

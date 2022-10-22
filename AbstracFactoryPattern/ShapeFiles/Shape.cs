@@ -1,7 +1,7 @@
 ﻿using System;
 namespace AbstracFactoryPattern.ShapeFiles
 {
-    interface Shape
+    interface IShape
     {
         void draw();
     }

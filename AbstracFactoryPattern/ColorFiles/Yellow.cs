@@ -1,7 +1,7 @@
 ﻿using System;
 namespace AbstracFactoryPattern.ColorFiles
 {
-    class Yellow : Color
+    class Yellow : IColor
     {
         public void paint()
         {
