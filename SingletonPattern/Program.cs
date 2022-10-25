@@ -12,6 +12,8 @@ namespace SingletonPattern
 
             Singleton singleton2 = Singleton.getInstance();
             Console.WriteLine($"From instance 2: {singleton2.data}");
+
+            Console.WriteLine($"Is instance 1 equal to instance 2 = {singleton.Equals(singleton2)}");
         }
     }
 
