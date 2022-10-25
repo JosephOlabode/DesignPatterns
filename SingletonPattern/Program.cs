@@ -11,7 +11,7 @@ namespace SingletonPattern
             Console.WriteLine($"From instance 1: {singleton.data}");
 
             Singleton singleton2 = Singleton.getInstance();
-            Console.WriteLine($"From instance 2: {singleton.data}");
+            Console.WriteLine($"From instance 2: {singleton2.data}");
         }
     }
 
