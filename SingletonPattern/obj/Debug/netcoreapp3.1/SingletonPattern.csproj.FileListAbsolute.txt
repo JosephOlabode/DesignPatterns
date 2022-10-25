@@ -1,0 +1,14 @@
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/bin/Debug/netcoreapp3.1/SingletonPattern
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/bin/Debug/netcoreapp3.1/SingletonPattern.deps.json
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/bin/Debug/netcoreapp3.1/SingletonPattern.runtimeconfig.json
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/bin/Debug/netcoreapp3.1/SingletonPattern.runtimeconfig.dev.json
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/bin/Debug/netcoreapp3.1/SingletonPattern.dll
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/bin/Debug/netcoreapp3.1/SingletonPattern.pdb
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/obj/Debug/netcoreapp3.1/SingletonPattern.csproj.AssemblyReference.cache
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/obj/Debug/netcoreapp3.1/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/obj/Debug/netcoreapp3.1/SingletonPattern.AssemblyInfoInputs.cache
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/obj/Debug/netcoreapp3.1/SingletonPattern.AssemblyInfo.cs
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/obj/Debug/netcoreapp3.1/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/obj/Debug/netcoreapp3.1/SingletonPattern.dll
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/obj/Debug/netcoreapp3.1/SingletonPattern.pdb
+/Users/softwareengineer/Projects/DesignPatterns/SingletonPattern/obj/Debug/netcoreapp3.1/SingletonPattern.genruntimeconfig.cache

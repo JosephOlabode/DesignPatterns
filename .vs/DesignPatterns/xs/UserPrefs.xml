@@ -1,17 +1,18 @@
-﻿<Properties StartupConfiguration="{1568EA8D-2CA3-4D86-A777-1E928328DCCF}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryPattern/Program.cs">
+﻿<Properties StartupConfiguration="{57841446-ACCD-433C-8750-B2E3320E2AF5}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstracFactoryPattern/Program.cs">
     <Files>
-      <File FileName="FactoryPattern/Program.cs" Line="17" Column="10" />
-      <File FileName="AbstracFactoryPattern/Program.cs" Line="14" Column="1" />
+      <File FileName="FactoryPattern/Program.cs" Line="18" Column="6" />
+      <File FileName="AbstracFactoryPattern/Program.cs" Line="2" Column="40" />
+      <File FileName="AbstracFactoryPattern/ShapeColorFactoryFiles/ShapeColorFactory.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
-            <Node name="AbstracFactoryPattern" expanded="True" />
+            <Node name="AbstracFactoryPattern" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="FactoryPattern" expanded="True" />
           </Node>
         </State>
@@ -22,8 +23,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.FactoryPattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.AbstracFactoryPattern FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AbstracFactoryPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SingletonPattern FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>
