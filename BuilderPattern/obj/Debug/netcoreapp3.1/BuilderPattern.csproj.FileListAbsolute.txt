@@ -1,0 +1,14 @@
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.csproj.AssemblyReference.cache
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.AssemblyInfoInputs.cache
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.AssemblyInfo.cs
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.csproj.CoreCompileInputs.cache
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/bin/Debug/netcoreapp3.1/BuilderPattern
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/bin/Debug/netcoreapp3.1/BuilderPattern.deps.json
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/bin/Debug/netcoreapp3.1/BuilderPattern.runtimeconfig.json
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/bin/Debug/netcoreapp3.1/BuilderPattern.runtimeconfig.dev.json
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/bin/Debug/netcoreapp3.1/BuilderPattern.dll
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/bin/Debug/netcoreapp3.1/BuilderPattern.pdb
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.dll
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.pdb
+/Users/softwareengineer/Projects/DesignPatterns/BuilderPattern/obj/Debug/netcoreapp3.1/BuilderPattern.genruntimeconfig.cache
