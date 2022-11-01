@@ -117,7 +117,6 @@ namespace BuilderPattern
             vehicle.buildBody();
             vehicle.buildHeadLamp();
             vehicle.buildWheel();
-            //vehicle.getVehicle();
         }
     }
 }

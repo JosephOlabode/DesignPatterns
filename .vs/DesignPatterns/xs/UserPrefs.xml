@@ -1,24 +1,21 @@
-﻿<Properties StartupConfiguration="{9D55F8D9-283E-4214-8EC2-6C970FC9F127}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.BuilderPattern FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.AbstracFactoryPattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.FactoryPattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties StartupConfiguration="{C333BF6C-D14D-4F2E-8400-CAA4F5DB4A18}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.SingletonPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FactoryPattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SingletonPattern/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuilderPattern/Program.cs">
     <Files>
       <File FileName="FactoryPattern/Program.cs" Line="18" Column="6" />
       <File FileName="AbstracFactoryPattern/Program.cs" Line="14" Column="20" />
       <File FileName="AbstracFactoryPattern/ShapeColorFactoryFiles/ShapeColorFactory.cs" Line="1" Column="1" />
       <File FileName="SingletonPattern/Program.cs" Line="36" Column="10" />
+      <File FileName="BuilderPattern/Program.cs" Line="119" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
             <Node name="AbstracFactoryPattern" expanded="True" />
+            <Node name="BuilderPattern" expanded="True" />
             <Node name="FactoryPattern" expanded="True" />
             <Node name="SingletonPattern" expanded="True" />
           </Node>
@@ -29,4 +26,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PrototypePattern FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BuilderPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SingletonPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AbstracFactoryPattern PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
