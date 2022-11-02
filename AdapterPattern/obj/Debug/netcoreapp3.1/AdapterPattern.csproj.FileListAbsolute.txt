@@ -1,0 +1,14 @@
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/bin/Debug/netcoreapp3.1/AdapterPattern
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/bin/Debug/netcoreapp3.1/AdapterPattern.deps.json
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/bin/Debug/netcoreapp3.1/AdapterPattern.runtimeconfig.json
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/bin/Debug/netcoreapp3.1/AdapterPattern.runtimeconfig.dev.json
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/bin/Debug/netcoreapp3.1/AdapterPattern.dll
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/bin/Debug/netcoreapp3.1/AdapterPattern.pdb
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/obj/Debug/netcoreapp3.1/AdapterPattern.csproj.AssemblyReference.cache
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/obj/Debug/netcoreapp3.1/AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/obj/Debug/netcoreapp3.1/AdapterPattern.AssemblyInfoInputs.cache
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/obj/Debug/netcoreapp3.1/AdapterPattern.AssemblyInfo.cs
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/obj/Debug/netcoreapp3.1/AdapterPattern.csproj.CoreCompileInputs.cache
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/obj/Debug/netcoreapp3.1/AdapterPattern.dll
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/obj/Debug/netcoreapp3.1/AdapterPattern.pdb
+/Users/softwareengineer/Projects/DesignPatterns/AdapterPattern/obj/Debug/netcoreapp3.1/AdapterPattern.genruntimeconfig.cache
