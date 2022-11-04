@@ -1,0 +1,14 @@
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/bin/Debug/netcoreapp3.1/BridgePattern
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/bin/Debug/netcoreapp3.1/BridgePattern.deps.json
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/bin/Debug/netcoreapp3.1/BridgePattern.runtimeconfig.json
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/bin/Debug/netcoreapp3.1/BridgePattern.runtimeconfig.dev.json
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/bin/Debug/netcoreapp3.1/BridgePattern.dll
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/bin/Debug/netcoreapp3.1/BridgePattern.pdb
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/obj/Debug/netcoreapp3.1/BridgePattern.csproj.AssemblyReference.cache
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/obj/Debug/netcoreapp3.1/BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/obj/Debug/netcoreapp3.1/BridgePattern.AssemblyInfoInputs.cache
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/obj/Debug/netcoreapp3.1/BridgePattern.AssemblyInfo.cs
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/obj/Debug/netcoreapp3.1/BridgePattern.csproj.CoreCompileInputs.cache
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/obj/Debug/netcoreapp3.1/BridgePattern.dll
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/obj/Debug/netcoreapp3.1/BridgePattern.pdb
+/Users/softwareengineer/Projects/DesignPatterns/BridgePattern/obj/Debug/netcoreapp3.1/BridgePattern.genruntimeconfig.cache

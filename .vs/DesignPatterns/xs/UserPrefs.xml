@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{A838D963-DAB4-4E8A-B4C3-8B1CDA0B22D9}|Default">
+﻿<Properties StartupConfiguration="{A3BADBD3-5CC3-4B0E-87FE-3089AE4AFBF4}|Default">
+  <MonoDevelop.Ide.ItemProperties.BridgePattern FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.FactoryPattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.BuilderPattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.SingletonPattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.AdapterPattern FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AdapterPattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.PrototypePattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PrototypePattern/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdapterPattern/Program.cs">
     <Files>
       <File FileName="FactoryPattern/Program.cs" Line="18" Column="6" />
       <File FileName="AbstracFactoryPattern/Program.cs" Line="14" Column="20" />
@@ -15,12 +16,14 @@
       <File FileName="SingletonPattern/Program.cs" Line="36" Column="10" />
       <File FileName="BuilderPattern/Program.cs" Line="119" Column="34" />
       <File FileName="PrototypePattern/Program.cs" Line="27" Column="10" />
+      <File FileName="AdapterPattern/Program.cs" Line="16" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
             <Node name="AbstracFactoryPattern" expanded="True" />
+            <Node name="AdapterPattern" expanded="True" />
             <Node name="BuilderPattern" expanded="True" />
             <Node name="FactoryPattern" expanded="True" />
             <Node name="PrototypePattern" expanded="True" />
